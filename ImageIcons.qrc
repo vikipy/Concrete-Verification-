@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="ImageIcons">
+    <file>Icons/kg-m3.png</file>
+    <file>Icons/Warning.png</file>
+    <file>Icons/7740592.jpg</file>
+    <file>Icons/cm2.png</file>
+    <file>Icons/cm3.png</file>
+    <file>Icons/kg.png</file>
+    <file>Icons/kg-cm3.png</file>
+    <file>Icons/kgf-cm2.png</file>
+    <file>Icons/7744522.jpg</file>
+    <file>Icons/7746730.jpg</file>
+    <file>Icons/DeleteRow.jpg</file>
+    <file>Icons/9.jpg</file>
+    <file>Icons/Calculate.jpg</file>
+    <file>Icons/Compression.jpg</file>
+    <file>Icons/Cubic.jpg</file>
+    <file>Icons/Cylindrical.jpg</file>
+    <file>Icons/Dimension.jpg</file>
+    <file>Icons/Sampling.jpg</file>
+    <file>Icons/Schmidt.jpg</file>
+    <file>Icons/Slump.jpg</file>
+    <file>Icons/Specimen.jpg</file>
+    <file>Icons/Wieght.jpg</file>
+    <file>Icons/AddProject.png</file>
+    <file>Icons/AddRowIcon.png</file>
+    <file>Icons/AppIcon.png</file>
+    <file>Icons/CommentIcon.png</file>
+    <file>Icons/DeleteProjectIcon.png</file>
+    <file>Icons/EditProjectIcon.jpg</file>
+    <file>Icons/EditRowIcon.png</file>
+    <file>Icons/FailIcon.png</file>
+    <file>Icons/InfoIcon.png</file>
+    <file>Icons/ProjectsListIcon.png</file>
+    <file>Icons/RowListIcon.png</file>
+    <file>Icons/SaveProjectIcon.png</file>
+    <file>Icons/SettingIcon.png</file>
+    <file>Icons/SuccessIcon.png</file>
+  </qresource>
+</RCC>
